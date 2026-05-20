@@ -1,0 +1,16 @@
+/* Safe test CSS */
+
+body {
+    background-color: #0e1117;
+    color: white;
+}
+
+h1, h2, h3 {
+    color: #4CAF50;
+}
+
+.stButton > button {
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 8px;
+}

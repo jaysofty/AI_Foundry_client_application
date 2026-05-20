@@ -1,0 +1,10 @@
+# pip install -r requirements.txt
+# after install run: pip freeze > requirements.txt
+streamlit
+python-dotenv
+openai
+requests
+azure-ai-textanalytics
+azure-ai-contentunderstanding
+azure-identity
+azure-core
